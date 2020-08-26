@@ -1,3 +1,3 @@
 # WordPress Plugin Base
 
-This Repositorie as a plugin boilerplate for WordPress.
+This Repositorie as a plugin boilerplate for WordPress

@@ -1,0 +1,27 @@
+{
+    "name": "slrondonm/wordpress-base-plugin",
+    "description": "A bolilerplate for WordPress plugins",
+    "type": "wordpress-plugin",
+    "keywords": ["wordpress", "plugin", "boilerplate"],
+    "license": "GPL-3.0-or-later",
+    "authors": [
+        {
+            "name": "Sergio Rondón",
+            "homepage": "https://virtualizate.com.co",
+            "email": "sl.rondon.m@gmail.com",
+            "role": "Developer"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "php": ">=7.0",
+        "tgmpa/tgm-plugin-activation": "^2.6",
+        "composer/installers": "^1.9",
+        "jjgrainger/posttypes": "^2.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "Virtualizte\\PluginName\\": "app/"
+        }
+    }
+}
