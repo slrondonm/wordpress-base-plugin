@@ -1,0 +1,31 @@
+{
+  "name": "wordpress-base-plugin",
+  "version": "1.0.0",
+  "author": "Sergio Rondon",
+  "license": "GPL-3.0-or-later",
+  "private": true,
+  "description": "A boilerplate WordPress Base plugin",
+  "config": {
+    "plugin_name": "WordPress Base Plugin",
+    "plugin_short_name": "Base Plugin",
+    "username": "slrondonm",
+    "php_namespace": "Virtualizate\\PluginName",
+    "prefix": "wpbp"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/slrondonm/wordpress-base-plugin.git"
+  },
+  "keywords": [
+    "wordpress",
+    "plugin",
+    "boilerplate"
+  ],
+  "bugs": {
+    "url": "https://github.com/slrondonm/wordpress-base-plugin/issues"
+  },
+  "homepage": "https://github.com/slrondonm/wordpress-base-plugin#readme"
+}
