@@ -7,7 +7,7 @@
     "authors": [
         {
             "name": "Sergio Rondón",
-            "homepage": "https://virtualizate.com.co",
+            "homepage": "https://github.com/slrondonm/",
             "email": "sl.rondon.m@gmail.com",
             "role": "Developer"
         }
@@ -24,7 +24,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Virtualizte\\PluginName\\": "app/"
+            "SLRM\\PluginName\\": "app/"
         }
     }
 }
