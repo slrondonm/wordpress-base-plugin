@@ -30,7 +30,7 @@ var distZipFile       = project + '.zip';  // The destination file for the ZIP t
 /**
  * 
  */
-var styleTask = [
+var styleTasks = [
     {
         name: 'plugin',
         suffix: false,
